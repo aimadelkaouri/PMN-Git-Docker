@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.entete{
+    display: flex;
+    background-color: #352DB4;
+    justify-content: space-between;
+    padding: 0 50px;
+    height: 100px;
+    align-items: center;
+    color: white;
+    
+}
+.entete h1 img{
+    height: 80px;
+    width: 200px;
+}
+.content ul {
+    display: flex;
+    text-decoration: none;
+}
+
+.content ul li {
+    margin: 0 10px;
+}
