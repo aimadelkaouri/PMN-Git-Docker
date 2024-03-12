@@ -26,3 +26,8 @@
 .content ul li {
     margin: 0 10px;
 }
+
+.section img{
+    width: 100%;
+    background-position: center;
+}
