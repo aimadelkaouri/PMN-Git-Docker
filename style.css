@@ -6,7 +6,7 @@
 
 .entete{
     display: flex;
-    background-color: #352DB4;
+    background-color: #593089;
     justify-content: space-between;
     padding: 0 50px;
     height: 100px;
@@ -25,6 +25,7 @@
 
 .content ul li {
     margin: 0 10px;
+    list-style: none;
 }
 
 .section img{
